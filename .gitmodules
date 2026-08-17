@@ -1,0 +1,6 @@
+[submodule "student-search-frontend"]
+	path = student-search-frontend
+	url = https://github.com/MurasoliB/student-search-frontend.git
+[submodule "student-search-backend"]
+	path = student-search-backend
+	url = https://github.com/MurasoliB/student-search-backend.git
